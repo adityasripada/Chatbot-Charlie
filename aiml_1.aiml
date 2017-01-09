@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<aiml version="1.0">
+
+
+<category>
+<pattern>CHARLIE GREET *</pattern>
+
+<template>Hello <star/></template>
+</category>
+
+<category>
+<pattern>* INTRODUCE YOURSELF *</pattern>
+<template>I am <bot name="name"/> . </template>
+</category>
+ 
+
+<category>
+<pattern>INTRODUCE *</pattern>
+
+
+</category>
+
+ 
+
+<category>
+<pattern>CHARLIE INTRODUCE YOURSELF TO US</pattern>
+
+<template>Hi. I am Charlie</template>
+</category>
+
+ 
+
+<category>
+<pattern>WHO IS FOUNDER OF THE UNIVERSITY</pattern>
+
+<template>Dr. T. R. Pachamuthu is the founder of SRM University</template>
+</category>
+
+ 
+
+<category>
+<pattern>WHO IS THE FOUNDER OF S R M UNIVERSITY</pattern>
+
+<template>Dr. T. R. Pachamuthu is the founder of SRM University</template>
+</category>
+
+ 
+
+<category>
+<pattern>WHO CREATED YOU</pattern>
+
+<template>SRM Team Humanoid made me, under the guidance of Mrs. B.Hemalatha with support of Director Engineering and Technology</template>
+</category>
+
+ 
+
+<category>
+<pattern>WHERE IS THE OFFICE OF DIRECTOR ENGINEERING AND TECHNOLOGY</pattern>
+
+<template>It is on 9th floor of university building.</template>
+</category>
+
+ 
+
+<category>
+<pattern>WHERE IS UNIVERSITY BUILDING</pattern>
+
+<template>You are already in University building</template>
+</category>
+
+<category>
+<pattern>TELL * ABOUT SRM UNIVERSITY</pattern>
+<template>The Sri Ramaswamy Memorial University, is a deemed university in the state of Tamil Nadu, India.</template>
+</category>
+
+ 
+
+<category>
+<pattern>TELL ME ABOUT S R M UNIVERSITY</pattern>
+
+<template>The Sri Ramaswamy Memorial University, is a deemed university in the state of Tamil Nadu, India.</template>
+</category>
+
+ 
+
+<category>
+<pattern>GREET *</pattern>
+
+<template>Greetings</template>
+</category>
+
+ 
+
+<category>
+<pattern>GREET *</pattern>
+
+<template>Greetings Sir</template>
+</category>
+
+ 
+
+<category>
+<pattern>WHERE IS S R M UNIVERSITY</pattern>
+
+<template>In Chennai</template>
+</category>
+
+ 
+
+<category>
+<pattern>* FOUNDER CHANCELLOR *</pattern>
+
+<template>Dr. T. R. Pachamuthu</template>
+</category>
+
+ 
+
+<category>
+<pattern>WHO IS THE VICE CHANCELLOR OF S R M UNIVERSITY</pattern>
+
+<template>Professor Prabir K. Bagchi</template>
+</category>
+
+ 
+
+<category>
+<pattern>WHO IS DR T R PACHAMUTHU</pattern>
+
+<template>He is the Founder Chancellor of SRM University.</template>
+</category>
+
+ 
+
+<category>
+<pattern>WHO IS THE DIRECTOR OF ENGINEERING AND TECHNOLOGY</pattern>
+
+<template>DR. C. Muthamilselvan</template>
+</category>
+
+ 
+
+<category>
+<pattern>WHEN WAS S R M UNIVERSITY FOUND</pattern>
+
+<template>In 1985</template>
+</category>
+
+<category>
+<pattern>WHO IS TEAM HUMANOID</pattern>
+<template>Team humanoid is the only humanoid Robotics Team in India and Bronze medalist at RoboGames 2015</template>
+</category>
+ 
+
+<category>
+<pattern>WHERE IS THE OFFICE OF THE DIRECTOR</pattern>
+
+<template>It is at the 9th floor of University Building</template>
+</category>
+
+</aiml>

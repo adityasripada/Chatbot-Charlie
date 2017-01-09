@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<aiml version="1.0">
+
+
+<category>
+<pattern>HEY</pattern>
+<template>Hi, There</template>
+
+</category>
+
+ 
+
+<category>
+<pattern>* FULL FORM OF WAT CONSULT</pattern>
+
+<template>Web. Advertising. Technology.</template>
+</category>
+
+
+<category>
+<pattern>* WAT CONSULT STAND FOR</pattern>
+
+<template><srai>* FULL FORM OF WAT CONSULT</srai></template>
+</category>
+
+<category>
+<pattern>WHO * THE FIRST CLIENT</pattern>
+
+<template>Rediff.com</template>
+</category>
+
+ 
+
+<category>
+<pattern>HOW BIG WAS THE FIRST PAY CHECK FOR WAT CONSULT</pattern>
+
+<template>The first paycheck was for 4 Lacs. </template>
+</category>
+
+ 
+
+<category>
+<pattern>WHEN WAS WAT CONSULT STARTED</pattern>
+
+<template>We started in the year 2007.</template>
+</category>
+
+ 
+
+<category>
+<pattern>HOW OLD IS WAT CONSULT</pattern>
+
+<template>WAT is 10 years old in Jan 2017.</template>
+</category>
+
+ 
+
+<category>
+<pattern>HOW OLD IS RAJIV DINGRA</pattern>
+
+<template>31 years old. 31 years young. 31 years toddler. All of these are true. </template>
+</category>
+
+ 
+
+<category>
+<pattern>HOW MANY BRANDS DOES WAT CONSULT HAVE</pattern>
+
+<template>120+ brands across sectors which includes 20+ global clients. </template>
+</category>
+
+ 
+
+<category>
+<pattern>WHAT IS THE TEAM SIZE OF WAT CONSULT</pattern>
+
+<template>270+ across offices. </template>
+</category>
+
+<category>
+<pattern>HOW * IS WAT CONSULT *</pattern>
+<template>
+	<srai>WHAT IS THE TEAM SIZE OF WAT CONSULT</srai>
+</template>
+</category>
+
+<category>
+<pattern>WHERE WAS THE FIRST OFFICE OF WAT CONSULT</pattern>
+<template>The first office of WATConsult was in Colaba, Mumbai. </template>
+</category>
+
+<category>
+<pattern>WHERE DID WHAT CONSULT *</pattern>
+<template> 
+	<srai>WHERE WAS THE FIRST OFFICE OF WAT CONSULT</srai>
+</template>
+</category>
+
+<category>
+<pattern>WHO WAS THE FIRST EMPLOYEE OF WAT CONSULT</pattern>
+<template>Gautam Bhatia. School friend of Rajiv Dingra.</template>
+</category>
+
+
+<category>
+<pattern>WHAT IS THE PHILOSOPHY BEHIND WAT CONSULT</pattern>
+<template>1. do more with less. 2. make big of nothing. 3. something out of nothing. 4. punch above your weight.  </template>
+</category>
+
+
+<category>
+<pattern>WHY IS THE THE THEME OF WAT CONSULT THAT OF SUPERHEROES</pattern>
+<template>Conviction in self. Do the impossible.</template>
+</category> 
+
+<category>
+<pattern>WHEN WAS WAT CONSULT ACQUIRED BY DAN</pattern>
+<template>WAT was acquired by Dentsu Aegis Network (DAN) on 29 Jan 2015.</template>
+</category> 
+
+<category>
+<pattern>HOW BIG IS THE THE DELHI / BANGALORE TEAM</pattern>
+<template>WATConsult has 50+ employees in Delhi and 25+ in Bangalore. And 1000s of potential employees in CV form in our inboxes.</template>
+</category> 
+
+<category>
+<pattern>WHERE DOES WAT CONSULT RANK AMONG OTHER AGENCIES</pattern>
+<template>WAT is by far the biggest social media agency in India and soon to be the one of the topmost digital agencies in the country.</template>
+</category> 
+
+<category>
+<pattern>WHAT ARE THE RECENT ACHIEVEMENTS OF WAT CONSULT</pattern>
+<template>Drivers of Digital (DOD) Agency of the year 2016, Entered the roster of Hindustan Unilever (HUL), successful creative campaign for the international player Emirates NBD</template>
+</category> 
+
+
+ 
+
+<category>
+<pattern>WHAT IS *</pattern>
+
+
+</category>
+
+ 
+
+<category>
+<pattern>WHAT IS FULL FORM OF WAT CONSULT</pattern>
+
+<template>Web. Advertising. Technology.</template>
+</category>
+
+ 
+
+<category>
+<pattern>FIRST *</pattern>
+
+
+</category>
+
+ 
+
+<category>
+<pattern>HOW MUCH *</pattern>
+
+
+</category>
+
+ 
+
+<category>
+<pattern>HOW *</pattern>
+
+
+</category>
+
+ 
+
+<category>
+<pattern>WHAT WAS THE *</pattern>
+
+
+</category>
+
+ 
+
+<category>
+<pattern>WHAT WAS THE * OF FIRST PAY CHECK FOR WAT CONSULT</pattern>
+
+<template>for 4 lacs</template>
+</category>
+
+ 
+
+<category>
+<pattern>WHEN WAS *</pattern>
+
+
+</category>
+
+ 
+
+<category>
+<pattern>WHEN WAS WAT CONSULT FOUNDED</pattern>
+
+<template>In 2007</template>
+</category>
+
+ 
+
+<category>
+<pattern>* WAT CONSULT STARTED</pattern>
+
+<template>In 2007</template>
+</category>
+
+</aiml>
